@@ -4,7 +4,7 @@
 window.SITE_CONFIG = {
   // Email that receives inquiry form submissions (via Web3Forms).
   // PLACEHOLDER — replace with your real inbox before going live.
-  contactEmail: "info@passive-electronics.com",
+  contactEmail: "guigvc@gmail.com",
 
   // Web3Forms access key (free tier). Get one at https://web3forms.com
   // Sign up with contactEmail above, paste the key here.
