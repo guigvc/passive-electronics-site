@@ -9,7 +9,7 @@ window.SITE_CONFIG = {
   // Web3Forms access key (free tier). Get one at https://web3forms.com
   // Sign up with contactEmail above, paste the key here.
   // PLACEHOLDER — form will not deliver until this is set.
-  web3formsKey: "YOUR_WEB3FORMS_ACCESS_KEY",
+  web3formsKey: "7037efa3-0cdb-4411-ad43-b6a8de98ad97",
 
   // WhatsApp number in international format, no spaces/symbols, e.g. "85212345678"
   // PLACEHOLDER — replace with your real WhatsApp Business number.
